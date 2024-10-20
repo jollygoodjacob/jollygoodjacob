@@ -1,20 +1,11 @@
-<div id="header" align="center">
-<img src="https://giphy.com/embed/l0ExmuVtODPWy0xP2" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/nasa-space-2016-l0ExmuVtODPWy0xP2">
+<div align="center">
+  <img src="https://media.giphy.com/media/l0ExmuVtODPWy0xP2/giphy.gif" width="50%" alt="Space GIF">
 </div>
 
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**jollygoodjacob/jollygoodjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jacob Nesslage and I am a PhD Candidate in the Environmental Systems Graduate Group at the University of California, Merced (UC Merced). I am a member of the Earth Observation and Remote Sensing (EORS) Lab at UC Merced, and I am advised by Dr. Erin Hestir.
 
-Here are some ideas to get you started:
+My background is in environmental engineering, ecology, and ecosystem science. In my current research, I utilize remote sensing data from satellites, drones, and aircraft to assess, monitor, and model biodiversity. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an advocate for the use of open-source geospatial tools and data. I am most comfortable coding in R or Python, although I occasionally use Javascript and Bash for specific geospatial applications. 
