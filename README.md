@@ -11,6 +11,3 @@ My background is in environmental engineering, spatial ecology, and remote sensi
 Given the intrinsic link between life and water, much of my research focuses on the unique ecosystems where biodiversity and water converge, such as floodplains, riparian forests, and ephemeral wetlands.
 
 I am an advocate for the use of open-source geospatial code, tools, and data. I am most comfortable coding in R or Python, although I occasionally use Javascript and Bash for specific geospatial applications.
-
-
-
