@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/l0ExmuVtODPWy0xP2/giphy.gif" width="50%" alt="Space GIF">
 </div>
 
-## Hi there! 👋
+Hi there! 👋
+======
 
 My name is Jacob Nesslage and I am a PhD Candidate in the Environmental Systems Graduate Group at the University of California, Merced (UC Merced). I am a member of the Earth Observation and Remote Sensing (EORS) Lab at UC Merced, and I am advised by Dr. Erin Hestir.
 
