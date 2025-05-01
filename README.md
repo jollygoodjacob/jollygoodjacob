@@ -11,5 +11,4 @@ My background is in environmental engineering, spatial ecology, and remote sensi
 
 I am an advocate for the use of open-source geospatial code, tools, and data. I am most comfortable coding in R or Python, although I occasionally use Javascript and Bash for specific geospatial applications.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jollygoodjacob&count_private=true&theme=tokyonight&showicons=true)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollygoodjacob&theme=tokyonight)
+
