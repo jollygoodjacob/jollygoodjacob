@@ -7,7 +7,7 @@ Hi there! 👋
 
 My name is Jacob Nesslage and I am a PhD Candidate in the Environmental Systems Graduate Group at the University of California, Merced (UC Merced). I am a member of the Earth Observation and Remote Sensing (EORS) Lab at UC Merced (PI: Dr. Erin Hestir(.
 
-My background is in environmental engineering, spatial ecology, and remote sensing. 
+My background is in environmental engineering, community and ecosystem ecology, and remote sensing. 
 
 In my dissertation research, I utilize remote sensing data from satellites, drones, and aircraft, as well as in-situ surveys of plants and macroinvertebrates, and collections of environmental DNA from soils, sediments, and water to assess, monitor, and model biodiversity. I am also very interested in how hydrology and geomorphology converge to shape biodiversity and ecosystem services across watersheds. Given the intrinsic link between life and water, much of my research focuses on the unique ecosystems where biodiversity and water converge, such as floodplains, riparian forests, and ephemeral wetlands.
 
