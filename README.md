@@ -5,7 +5,7 @@
 Hi there! 👋
 ======
 
-My name is Jacob Nesslage and I am a PhD Candidate in the Environmental Systems Graduate Group at the University of California, Merced (UC Merced). I am a member of the Earth Observation and Remote Sensing (EORS) Lab at UC Merced, and I am advised by Dr. Erin Hestir.
+My name is Jacob Nesslage and I am a PhD Candidate in the Environmental Systems Graduate Group at the University of California, Merced (UC Merced). I am a member of the Earth Observation and Remote Sensing (EORS) Lab at UC Merced (PI: Dr. Erin Hestir(.
 
 My background is in environmental engineering, spatial ecology, and remote sensing. 
 
