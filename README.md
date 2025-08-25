@@ -9,7 +9,7 @@ My name is Jacob Nesslage and I am a Ph.D Candidate in the Environmental Systems
 
 My background is in environmental engineering, community and ecosystem ecology, and remote sensing. 
 
-In my dissertation research, I utilize remote sensing data from satellites, drones, and aircraft, as well as in-situ surveys of plants and macroinvertebrates, and collections of environmental DNA from soils, sediments, and water to assess, monitor, and model biodiversity. I am also very interested in how hydrology and geomorphology converge to shape biodiversity and ecosystem services across watersheds. Given the intrinsic link between life and water, much of my research focuses on the unique ecosystems where biodiversity and water converge, such as floodplains, riparian forests, and ephemeral wetlands.
+In my dissertation research, I utilize remote sensing data from satellites, drones, and aircraft, as well as in-situ surveys of plants and macroinvertebrates, and collections of environmental DNA from soils, sediments, and water to assess, monitor, and model biodiversity. I am also very interested in how hydrology and geomorphology converge to shape biodiversity and ecosystem services across watersheds. Given the intrinsic link between life and water, much of my research focuses on the unique ecosystems where biodiversity and water converge, such as floodplains, rivers, and ephemeral wetlands.
 
 A separate area of research I have began to work on is spatiotemporal data fusion, particularly as it relates to satellite and UAV data. In this research, I am interested in developing synthetic fine-resolution imagery for applications in precision agriculture and other areas where high spatial and temporal resolution is needed in remote sensing applications.
 
