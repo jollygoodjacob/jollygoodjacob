@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l0ExmuVtODPWy0xP2/giphy.gif" width="50%" alt="Space GIF">
 </div>
 
-Hi there! 👋
+Hi! 👋
 ======
 [![GitHub Badge](https://img.shields.io/github/followers/jollygoodjacob?style=social)](https://github.com/jollygoodjacob?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=krk3qVYAAAAJ&hl=en)
