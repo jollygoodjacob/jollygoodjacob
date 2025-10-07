@@ -18,6 +18,14 @@ In my dissertation research, I utilize remote sensing data from satellites, dron
 A separate area of research I have began to work on is spatiotemporal data fusion, particularly as it relates to satellite and UAV data. In this research, I am interested in developing synthetic fine-resolution imagery for applications in precision agriculture and other areas where high spatial and temporal resolution is needed in remote sensing applications.
 
 I am an advocate for the use of open-source geospatial code, tools, and data. I am most comfortable coding in R or Python, although I occasionally use Javascript and Bash for specific geospatial applications.
+<table>
+  <tr>
+    <td>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jollygoodjacob&show_icons=true&count_private=true&theme=tokyonight&showicons=true&count_private=true&include_all_commits=true)]() 
+    </td>
+    <td>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollygoodjacob&theme=tokyonight&layout=compact) 
+    </td>
+  </tr>
+</table>
