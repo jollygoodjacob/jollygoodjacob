@@ -5,7 +5,7 @@
 Hi there! 👋
 ======
 [![GitHub Badge](https://img.shields.io/github/followers/jollygoodjacob?style=social)](https://github.com/jollygoodjacob?tab=followers)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=krk3qVYAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jacob-nesslage)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jollygoodjacob.jollygoodjacob)
 
