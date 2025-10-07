@@ -7,6 +7,7 @@ Hi there! 👋
 [![GitHub Badge](https://img.shields.io/github/followers/jollygoodjacob?style=social)](https://github.com/jollygoodjacob?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=krk3qVYAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jacob-nesslage)
+[![Website](https://img.shields.io/website?label=🌐%20Website&url=https%3A%2F%2Fjollygoodjacob.github.io)](https://jollygoodjacob.github.io)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jollygoodjacob.jollygoodjacob)
 
 My name is Jacob Nesslage and I am a Ph.D Candidate in the Environmental Systems Graduate Group at the University of California, Merced (UC Merced). I am a member of the Earth Observation and Remote Sensing (EORS) Lab at UC Merced (PI: Dr. Erin Hestir).
