@@ -31,7 +31,7 @@ I am an advocate for the use of open-source geospatial code, tools, and data. I 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jollygoodjacob&show_icons=true&count_private=true&theme=tokyonight&showicons=true&count_private=true&include_all_commits=true)]() 
     </td>
     <td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jollygoodjacob&theme=tokyonight&layout=compact) 
+
     </td>
   </tr>
 </table>
