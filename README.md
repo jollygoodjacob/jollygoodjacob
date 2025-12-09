@@ -67,7 +67,8 @@ I’m a strong advocate for open-source geospatial science, reproducible workflo
 [![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jollygoodjacob&show_icons=true&count_private=true&theme=tokyonight&showicons=true&count_private=true&include_all_commits=true)]() 
     </td>
     <td>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jollygoodjacob&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jollygoodjacob&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML,JavaScript,CSS,SCSS,TeX,Shell
+)
     </td>
   </tr>
 </table>
