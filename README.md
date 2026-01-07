@@ -12,8 +12,7 @@ Jacob Nesslage
 
 ---
 ## About Me
-I’m a Ph.D. Candidate in the Environmental Systems Graduate Group at the University of California, Merced. I conduct research in the Earth Observation and Remote Sensing (EORS) Lab (PI: Dr. Erin Hestir). My work sits at the intersection of remote sensing, ecology, and open science. When I'm not coding, collecting field data, or engaging in science, you can find me hiking, swimming, reading, or playing guitar.
-
+I’m a Ph.D. Candidate in the Environmental Systems Graduate Group at the University of California, Merced. I conduct research in the Earth Observation and Remote Sensing (EORS) Lab (PI: Dr. Erin Hestir). My work sits at the intersection of remote sensing, ecology, and open data science. 
 ## Research Focus
 
 
