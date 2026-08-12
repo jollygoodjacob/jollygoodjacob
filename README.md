@@ -19,7 +19,7 @@ I’m a remote sensing scientist specializing in biodiversity and ecosystem moni
 
 
 ### Biodiversity at the Terrestrial-Aquatic Interface
-My dissertation research leverages multi-scale remote sensing — from satellites, drones, and aircraft — combined with in-situ biodiversity surveys and environmental DNA (eDNA) from soils, sediments, and water. Together, these datasets help me assess, monitor, and model biodiversity across dynamic terrestrial–aquatic interfaces. I am especially interested in how hydrology and geomorphology shape biodiversity and ecosystem services, focusing on floodplains, river corridors, and ephemeral wetlands — the transitional zones where life and water converge.
+My research leverages multi-scale remote sensing — from satellites, drones, and aircraft — combined with in-situ biodiversity surveys and environmental DNA (eDNA) from soils, sediments, and water. Together, these datasets help me assess, monitor, and model biodiversity across dynamic terrestrial–aquatic interfaces. I am especially interested in how hydrology and geomorphology shape biodiversity and ecosystem services, focusing on floodplains, river corridors, and ephemeral wetlands — the transitional zones where life and water converge.
 
 
 <p align="center">
@@ -28,7 +28,7 @@ My dissertation research leverages multi-scale remote sensing — from satellite
 </p>
 
 ### Spatiotemporal Data Fusion
-A growing area of my research involves spatiotemporal data fusion, particularly for combining satellite and UAV imagery to generate synthetic fine-resolution time series. These approaches have applications in precision agriculture, environmental monitoring, and other domains where high spatial and temporal resolution are essential.
+A growing research area involves spatiotemporal data fusion, particularly for combining satellite and UAV imagery to generate synthetic fine-resolution time series. These approaches have applications in precision agriculture, environmental monitoring, and other domains where high spatial and temporal resolution are essential.
 
 <p align="center">
     <img src="imgs/IoT4Ag_drone.jpg"  />
